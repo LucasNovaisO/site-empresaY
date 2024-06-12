@@ -1,0 +1,52 @@
+p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+img{
+    width: 100%;
+    max-width: 400px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
+}
+body{background-color:darkorchid}
+h1{font-size: 40px;}
+
+#caixa-mae{ width:800px;
+            height: 450px;
+            background-color: orange;
+            display: flex;
+            flex-direction: column;
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiy8Rme_AqulZFTSASDyodSblvxEKHQi2Fig&s);background: cover;
+            
+
+}
+#caixa-filho1{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(18, 67, 228);
+}
+#caixa-filho2{
+    width: 50%;
+    height: 50%;
+    background-color: greenyellow;
+
+}
+#caixa-filho3{
+    width: 50%;
+    height: 100%;
+    background-color: darkturquoise;
+}
+a{
+    color: rgb(5, 255, 5);
+}
+img.linguagens{
+    width: 200px;
+    height: 200px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
+}
+#formaçao{
+    color: rgb(255, 0, 0);
+}
